@@ -1,0 +1,6 @@
+@HavaDurumu_HostAddress = http://localhost:5003
+
+GET {{HavaDurumu_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
